@@ -1,1 +1,2 @@
 # scrapers
+These applications were built a couple of years ago to scrape public data on specific sites to help me build my company’s sales pipeline. These were the first applications I built using Python.
