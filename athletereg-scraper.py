@@ -6,7 +6,7 @@ from selenium.webdriver.support import expected_conditions as EC
 import pandas as pd
 import time
 
-url = 'https://www.bikereg.com/'
+url = 'target_url'
 
 options = webdriver.ChromeOptions()
 options.add_argument('--disable-dev-shm-usage')
